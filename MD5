@@ -1,0 +1,12 @@
+f8ea0bf7ccc317c65dc0833dc06e655f *DESCRIPTION
+7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
+e2745bc9521950c2d71138f82ba3ec8f *R/codonToAAone.R
+9d57e9b7aa1af2590b47deeb6c7f4757 *R/codonToAAoneRNA.R
+9f27c4a6ec9b58cd9cc9d57907fae8f9 *R/codonToAAthree.R
+c90072385ec9a6cff7a003e6f7cf0fbe *R/codonToAAthreeRNA.R
+6441bb32e9364d2c4cd4fea595e148f0 *R/geneticCodeTable.R
+4fe410515067bcfdee9248ce3eb796c7 *man/codonToAAone.Rd
+3d6f3467583ab568495972c164af4d99 *man/codonToAAoneRNA.Rd
+57fc35f24cd3d7f1ac7e4eebccdc1d22 *man/codonToAAthree.Rd
+e21180274e615aaa9d8abcdf0d39ff3e *man/codonToAAthreeRNA.Rd
+ed622a6e0c85c64f2a57e0aa49a6b3a0 *man/geneticCodeTable.Rd
